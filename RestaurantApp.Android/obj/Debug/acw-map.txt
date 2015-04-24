@@ -1,0 +1,1 @@
+RestaurantApp.Android.MainActivity;restaurantapp.android.MainActivity

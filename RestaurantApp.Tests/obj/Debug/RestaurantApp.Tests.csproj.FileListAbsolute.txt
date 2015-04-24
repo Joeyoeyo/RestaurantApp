@@ -1,0 +1,7 @@
+C:\Users\Adam\Development\GitHub\RestaurantApp\RestaurantApp.Tests\bin\Debug\RestaurantApp.Tests.dll
+C:\Users\Adam\Development\GitHub\RestaurantApp\RestaurantApp.Tests\bin\Debug\RestaurantApp.Tests.pdb
+C:\Users\Adam\Development\GitHub\RestaurantApp\RestaurantApp.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Adam\Development\GitHub\RestaurantApp\RestaurantApp.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Adam\Development\GitHub\RestaurantApp\RestaurantApp.Tests\obj\Debug\RestaurantApp.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Development\GitHub\RestaurantApp\RestaurantApp.Tests\obj\Debug\RestaurantApp.Tests.dll
+C:\Users\Adam\Development\GitHub\RestaurantApp\RestaurantApp.Tests\obj\Debug\RestaurantApp.Tests.pdb

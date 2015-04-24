@@ -1,0 +1,12 @@
+C:\Users\Adam\Development\GitHub\RestaurantApp\RestaurantApp.Desktop\bin\Debug\RestaurantApp.Desktop.exe
+C:\Users\Adam\Development\GitHub\RestaurantApp\RestaurantApp.Desktop\bin\Debug\RestaurantApp.Desktop.pdb
+C:\Users\Adam\Development\GitHub\RestaurantApp\RestaurantApp.Desktop\obj\Debug\RestaurantApp.Desktop.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Development\GitHub\RestaurantApp\RestaurantApp.Desktop\obj\Debug\MainWindow.baml
+C:\Users\Adam\Development\GitHub\RestaurantApp\RestaurantApp.Desktop\obj\Debug\MainWindow.g.cs
+C:\Users\Adam\Development\GitHub\RestaurantApp\RestaurantApp.Desktop\obj\Debug\App.g.cs
+C:\Users\Adam\Development\GitHub\RestaurantApp\RestaurantApp.Desktop\obj\Debug\RestaurantApp.Desktop_MarkupCompile.cache
+C:\Users\Adam\Development\GitHub\RestaurantApp\RestaurantApp.Desktop\obj\Debug\RestaurantApp.Desktop.g.resources
+C:\Users\Adam\Development\GitHub\RestaurantApp\RestaurantApp.Desktop\obj\Debug\RestaurantApp.Desktop.Properties.Resources.resources
+C:\Users\Adam\Development\GitHub\RestaurantApp\RestaurantApp.Desktop\obj\Debug\RestaurantApp.Desktop.csproj.GenerateResource.Cache
+C:\Users\Adam\Development\GitHub\RestaurantApp\RestaurantApp.Desktop\obj\Debug\RestaurantApp.Desktop.exe
+C:\Users\Adam\Development\GitHub\RestaurantApp\RestaurantApp.Desktop\obj\Debug\RestaurantApp.Desktop.pdb

@@ -1,0 +1,6 @@
+C:\Users\Adam\Development\GitHub\RestaurantApp\RestaurantApp.iOS\bin\iPhone\Debug\RestaurantAppiOS.exe
+C:\Users\Adam\Development\GitHub\RestaurantApp\RestaurantApp.iOS\bin\iPhone\Debug\RestaurantAppiOS.pdb
+C:\Users\Adam\Development\GitHub\RestaurantApp\RestaurantApp.iOS\obj\iPhone\Debug\
+C:\Users\Adam\Development\GitHub\RestaurantApp\RestaurantApp.iOS\obj\iPhone\Debug\RestaurantApp.iOS.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Development\GitHub\RestaurantApp\RestaurantApp.iOS\obj\iPhone\Debug\RestaurantAppiOS.exe
+C:\Users\Adam\Development\GitHub\RestaurantApp\RestaurantApp.iOS\obj\iPhone\Debug\RestaurantAppiOS.pdb
