@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestaurantApp.Tests", "RestaurantApp.Tests\RestaurantApp.Tests.csproj", "{B4B4F917-EBAE-4D94-A2FF-F856EB615E3E}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "RestaurantApp", "RestaurantApp\RestaurantApp.shproj", "{A085D553-BC09-40FB-9D63-5DFEA1D2D83E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestaurantApp.Android", "RestaurantApp.Android\RestaurantApp.Android.csproj", "{550ADA15-2BF0-4C71-B840-534FDF067323}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{550ADA15-2BF0-4C71-B840-534FDF067323}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{550ADA15-2BF0-4C71-B840-534FDF067323}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{550ADA15-2BF0-4C71-B840-534FDF067323}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{550ADA15-2BF0-4C71-B840-534FDF067323}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4B4F917-EBAE-4D94-A2FF-F856EB615E3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4B4F917-EBAE-4D94-A2FF-F856EB615E3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4B4F917-EBAE-4D94-A2FF-F856EB615E3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4B4F917-EBAE-4D94-A2FF-F856EB615E3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
